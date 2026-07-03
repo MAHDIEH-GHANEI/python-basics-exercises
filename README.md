@@ -1,10 +1,8 @@
 # 🚀 Introduction to Python Programming
 
-This repository is a beginner-friendly guide to learning Python programming from scratch.
-
 This repository contains my beginner-friendly Python practice projects, organized by core programming concepts.
 
----
+.
 
 ## 📘 Section 1: Variables, Input & Output
 
@@ -25,7 +23,7 @@ These projects help understand how user input and output work in real applicatio
 📷 Sample Output: `07_largest_of_three.py`
 <img width="383" height="36" alt="07_largest_of_three" src="https://github.com/user-attachments/assets/b9f70717-693e-47c5-8ba2-6c5224a78d34" />
 
----
+.
 
 ## 🔁 Section 2: Loops & Conditions
 
@@ -44,9 +42,8 @@ These projects help understand how user input and output work in real applicatio
 Helps understand repetition and decision-making in programming.
 
 📷 Sample Output: `05_number_guessing_game.py`
-<img width="457" height="238" alt="05_number_guessing_game" src="https://github.com/user-attachments/assets/0a346876-35ec-431e-ba24-e40020ec0ac0" />
-
----
+<img width="457" height="238" alt="05_number_guessing_game" src="https://github.com/user-attachments/assets/9d5a1584-bb86-4c73-bf89-27e6078982bb" />
+.
 
 ## 📊 Section 3: Lists & Data Structures
 
@@ -64,11 +61,10 @@ Helps understand repetition and decision-making in programming.
 📌 Purpose:
 Helps understand how data is stored and manipulated in Python.
 
-📷 Sample Output: `04_find_smallest.py`
-<img width="380" height="72" alt="04_find_smallest" src="https://github.com/user-attachments/assets/c72cdaf5-ad42-4f7a-9dcc-1807d7b234d0" />
+📷 Sample Output: `04_sort_friends.py`
+<img width="380" height="72" alt="04_find_smallest" src="https://github.com/user-attachments/assets/46135b4b-b01b-41b7-8ec7-49feb8c3c1c8" />
 
----
-
+.
 ## ⚙️ Section 4: Functions & Mini Projects
 
 ### Concepts Used
@@ -89,10 +85,9 @@ Helps understand how data is stored and manipulated in Python.
 Helps write reusable and modular code.
 
 📷 Sample Output: `09_contact_manager.py`
-<img width="380" height="185" alt="09_contact_manager" src="https://github.com/user-attachments/assets/fc9a8baa-ed42-4705-8926-907d8884a121" />
-
----
+<img width="380" height="185" alt="09_contact_manager" src="https://github.com/user-attachments/assets/efe98bb9-4a50-478e-a0a3-f187012c8495" />
+.
 
 ## ▶️ How to Run
 
-This project can be run using any code editor or IDE that supports Python. ببین بخش اولو اشتباه جایگزین کردم اونم  کوتاه بشه کها اینا پروژه تمرینی مقدماتی  من شامل 4 قسمتو اینا بهتره تک خط بشه  
+This project can be run using any code editor or IDE that supports Python.
