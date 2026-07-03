@@ -43,6 +43,7 @@ Helps understand repetition and decision-making in programming.
 
 📷 Sample Output: `05_number_guessing_game.py`
 <img width="457" height="238" alt="05_number_guessing_game" src="https://github.com/user-attachments/assets/9d5a1584-bb86-4c73-bf89-27e6078982bb" />
+
 .
 
 ## 📊 Section 3: Lists & Data Structures
@@ -65,6 +66,7 @@ Helps understand how data is stored and manipulated in Python.
 <img width="380" height="72" alt="04_find_smallest" src="https://github.com/user-attachments/assets/46135b4b-b01b-41b7-8ec7-49feb8c3c1c8" />
 
 .
+
 ## ⚙️ Section 4: Functions & Mini Projects
 
 ### Concepts Used
@@ -86,6 +88,7 @@ Helps write reusable and modular code.
 
 📷 Sample Output: `09_contact_manager.py`
 <img width="380" height="185" alt="09_contact_manager" src="https://github.com/user-attachments/assets/efe98bb9-4a50-478e-a0a3-f187012c8495" />
+
 .
 
 ## ▶️ How to Run
