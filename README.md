@@ -89,29 +89,37 @@ Helps write reusable and modular code.
 📷 Sample Output: `09_contact_manager.py`
 <img width="380" height="185" alt="09_contact_manager" src="https://github.com/user-attachments/assets/efe98bb9-4a50-478e-a0a3-f187012c8495" />
 
-🚀 Section 5: Projects
-🧮 Python Calculator
-Concepts Used
+.
 
-functions, loops, if, elif, else, try, except, lists, tuples, math
+## 🚀 Section 5: Projects
 
-🧪 Features:
-Basic arithmetic operations
-Floor division
-Modulo
-Power
-Square root
-Trigonometric functions
-Degree and radian modes
-Factorial calculation
-Input validation
-Calculation history
-Continue calculations using the previous result
-Exit command
+### 🧮 Python Calculator
+
+### Concepts Used
+
+`functions`, `loops`, `if`, `elif`, `else`, `try`, `except`, `lists`, `tuples`, `math`
+
+### 🧪 Features:
+
+* Basic arithmetic operations
+* Floor division
+* Modulo
+* Power
+* Square root
+* Trigonometric functions
+* Degree and radian modes
+* Factorial calculation
+* Input validation
+* Calculation history
+* Continue calculations using the previous result
+* Exit command
 
 📌 Purpose:
 This project combines the Python concepts I have learned so far to build a more complete calculator program.
+
 It helps practice functions, loops, error handling, input validation, and problem-solving.
+
+.
 
 
 ## ▶️ How to Run
